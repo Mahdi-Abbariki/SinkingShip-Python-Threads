@@ -1,0 +1,6 @@
+.vscode
+.history
+__pycache__
+result
+*.rar
+*.zip
